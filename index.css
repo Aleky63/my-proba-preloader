@@ -9,7 +9,7 @@
 } */
 
 blockquote {
-  background: #f5dc02;
+  background: #d8c51c;
   border-left: 10px solid #ccc;
   margin: 0 0 0 100px;
   padding: 0.5em 10px;
@@ -19,7 +19,7 @@ blockquote {
 }
 
 blockquote:before {
-  color: #f02a2a;
+  color: #d41212;
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
@@ -27,7 +27,7 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 button {
-  background-color: aqua;
+  background-color: rgb(16, 243, 243);
   display: flex;
   padding: 2em;
   margin: 1em auto;
@@ -49,12 +49,12 @@ button {
   border-color: red;
 }
 .todo__item.is-color {
-  background-color: rgb(56, 216, 24);
+  background-color: rgb(86, 238, 55);
 }
 .section {
   margin: 20px 100px;
   padding: 0 20px;
-  background-color: #cfdaa1;
+  background-color: #bbc78c;
   transition-duration: 0.5s;
 }
 .section:nth-child(2) {
@@ -82,7 +82,7 @@ button {
   position: fixed;
   z-index: calc(infinity);
   inset: 0;
-  background-color: rgb(204, 228, 116);
+  background-color: rgb(226, 245, 160);
   animation-name: fade-out;
   animation-duration: 2s;
   animation-iteration-count: 1;
