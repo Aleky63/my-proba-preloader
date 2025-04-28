@@ -9,7 +9,7 @@
 } */
 
 blockquote {
-  background: #d8c51c;
+  background: #dfcd31;
   border-left: 10px solid #ccc;
   margin: 0 0 0 100px;
   padding: 0.5em 10px;
@@ -19,7 +19,7 @@ blockquote {
 }
 
 blockquote:before {
-  color: #d41212;
+  color: #df2727;
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
@@ -27,7 +27,7 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 button {
-  background-color: rgb(16, 243, 243);
+  background-color: rgb(46, 231, 231);
   display: flex;
   padding: 2em;
   margin: 1em auto;
